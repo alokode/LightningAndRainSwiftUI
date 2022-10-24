@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "storm-sky-cloudy-weather.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
